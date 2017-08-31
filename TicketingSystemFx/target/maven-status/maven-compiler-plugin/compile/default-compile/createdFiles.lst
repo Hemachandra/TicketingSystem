@@ -1,0 +1,4 @@
+com\zoo\ticket\controller\LoginController.class
+com\zoo\ticket\config\AbstractJavaFxApplicationSupport.class
+com\zoo\ticket\config\AppPreloader.class
+com\zoo\ticket\LoginRun.class
